@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "feishu": {
+      "command": "node",
+      "args": ["D:/WorkSpace/xhs/feishu-mcp-server/dist/index.js"],
+      "env": {
+        "FEISHU_APP_ID": "",
+        "FEISHU_APP_SECRET": ""
+      }
+    }
+  }
+}
